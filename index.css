@@ -1,0 +1,36 @@
+.pixels{
+    width: 50px;
+    border: 1px solid #fff;
+   background-color: aqua;
+}
+.percent{
+    width: 50%;
+    border: 2px solid #090a0a;
+   background-color: aqua;
+
+}
+.em{
+    font-size: 2em;
+    border: 3px solid rgb(210, 38, 38);
+   background-color: rgb(183, 255, 0);
+
+}
+.rem{
+width: 50px;
+border: 1px solid rgb(228, 138, 138);
+background-color: rgb(129, 186, 183);
+
+}
+.viewportwidth{
+    width: 50vw;
+    border: 5px solid rgb(108, 52, 203);
+    background-color: aqua;
+
+    }
+    .viewportheight{
+        width: 50vh;
+        border: 3px solid rgba(238, 21, 21, 0.41);
+        background-color: rgb(251, 255, 14);
+
+        }
+﻿
